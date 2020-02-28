@@ -88,4 +88,4 @@ MIT
 
 ## CREDITS
 
-Based off https://github.com/rudyhuynh/react-native-lazy-swiper
+https://github.com/rudyhuynh/react-native-lazy-swiper
