@@ -1,4 +1,4 @@
-# React Native Lazy Swiper
+# Another React Native Lazy Swiper
 Another swiper for React Native with lazy-loaded contents.
 
 ## Installation
