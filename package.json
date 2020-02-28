@@ -1,6 +1,6 @@
 {
   "name": "another-react-native-lazy-swiper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Another swiper for React Native with lazy-loaded contents.",
   "main": "index.js",
   "scripts": {
