@@ -11,7 +11,10 @@
     "url": "git+ssh://git@github.com/richlloydmiles/another-react-native-lazy-swiper.git"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "ios",
+    "android",
+    "swiper"
   ],
   "author": "richlloydmiles",
   "license": "MIT",
