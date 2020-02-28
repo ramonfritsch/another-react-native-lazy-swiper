@@ -13,7 +13,8 @@ Another swiper for React Native with lazy-loaded contents.
 * To go to specific item (no animation supported): set `currentIndex` of component's state to specific index.
 
 ## Example:
-````
+
+```js
 import { Text, View, Dimensions, StyleSheet } from 'react-native'
 import LazySwiper from 'another-react-native-lazy-swiper'
 import React, { useRef } from 'react'
@@ -69,9 +70,7 @@ const MySwiper = ({ data }) => {
 }
 
 export default MySwiper
-
-
-````
+```
 
 ## Props
 * `currentIndex`: (number, isRequired) to set specific displayed content of the swiper.
