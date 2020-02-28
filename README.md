@@ -85,3 +85,7 @@ export default MySwiper
 
 ## LICENSE
 MIT
+
+## CREDITS
+
+Based off https://github.com/rudyhuynh/react-native-lazy-swiper
