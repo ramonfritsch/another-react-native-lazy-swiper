@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/richlloydmiles/another-react-native-lazy-swiper/issues"
   },
-  "homepage": "https://github.com/richlloydmiles/another-react-native-lazy-swiper#readme"
+  "homepage": "https://github.com/richlloydmiles/another-react-native-lazy-swiper#readme",
+  "dependencies": {
+    "react-native-scroll-locky": "^1.0.0"
+  }
 }
