@@ -91,6 +91,7 @@ const LazySwiper = ({ currentIndex, data, width, renderItem, onSwipeEnd }) => {
     <ScrollView
       ref={_scrollView}
       onScroll={setScrollingTrue}
+      scrollEventThrottle={1000 / 4} // 4 fps
       pagingEnabled={true}
       contentOffset={{ x: currentIndex === 0 ? 0 : width, y: 0 }}
       showsHorizontalScrollIndicator={false}
